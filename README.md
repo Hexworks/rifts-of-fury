@@ -6,17 +6,6 @@ Shoot em up roguelike with giant monsters and robots.
 [![][circleci img]][circleci]
 [![][license img]][license]
 
-
-
-
-
-
-
-
-
-
-
-
 [circleci]:https://circleci.com/gh/Hexworks/rifts-of-fury
 [circleci img]:https://circleci.com/gh/Hexworks/rifts-of-fury/tree/master.svg?style=shield
 
